@@ -15,4 +15,4 @@ function runShortcut(name, input) {
 }
 
 // Usage example
-const success = runShortcutInProcess("reconnect", "");
+const success = runShortcut("reconnect", "");
